@@ -1,4 +1,4 @@
-az login --service-principal -u  9793ee19-4016-47ca-b68f-c0aa1d44b3c0 -p 36c253a4-e406-49b5-8a91-b638920517bf --tenant fa8261cb-9a47-424a-8328-011cf9c6482d
+az login --service-principal -u  9793ee19-4016-47ca-b68f-c0aa1d44b3c0 -p 70ea2e3c-bb92-4329-b794-72cfca970456 --tenant fa8261cb-9a47-424a-8328-011cf9c6482d
 #Create a Resource Group
 az group create --name Azure \
 --location eastus
